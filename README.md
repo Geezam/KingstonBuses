@@ -1,6 +1,6 @@
-# JUTC Kingsto Bus Tracker
+# JUTC Kingston Bus Tracker
 
-A Python-based desktop application that simulates and tracks Jamaica Urban Transit Company (JUTC) bus routes using a schematic "metro-style" map interface.
+A Python-based desktop application that simulates and tracks part of Jamaica Urban Transit Company (JUTC) bus routes using a schematic "metro-style" map interface.
 
 ## Overview
 
