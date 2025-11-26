@@ -24,3 +24,7 @@ The program currently simulates three specific routes:
 
 * Python 3.x
 * Tkinter (Usually included with standard Python installations)
+
+## Screenshot
+
+![Application Screenshot](img/Screenshot.png)
