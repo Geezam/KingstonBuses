@@ -1,5 +1,0 @@
-bus routes
-72: August Town, Mona Road, Old Hope Road, Hope Road, Half Way Tree
-83: Half Way Tree, New Kingston, Mountain View Avenue, Windward Road, City
-97: Bull Bay, Sir Florizel Glaspole Highway, Rockfort, Windward Road, City
-98: Port Royal, Sir Florizel Glaspole Highway, Rockfort, Windward Road, City
