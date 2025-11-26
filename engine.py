@@ -21,14 +21,14 @@ class BusTrackerApp(tk.Tk):
         # Buses initialization
         self.buses = []
 
-        # Bus 1: Assigned to ROUTE 52 (Purple)
-        self.add_bus(route=ROUTE_52, start_index=0, color="purple", speed=1.0)
+        # Bus 1: Assigned to ROUTE 52
+        self.add_bus(route=ROUTE_52, start_index=0, color="#9768EE", speed=1.0)
 
-        # Bus 2: Assigned to ROUTE 72 (Yellow)
-        self.add_bus(route=ROUTE_72, start_index=0, color="yellow", speed=1.5)
+        # Bus 2: Assigned to ROUTE 72
+        self.add_bus(route=ROUTE_72, start_index=0, color="#F0CE15", speed=1.5)
 
-        # Bus 3: Assigned to ROUTE 97 (Blue)
-        self.add_bus(route=ROUTE_97, start_index=0, color="blue", speed=2.0)
+        # Bus 3: Assigned to ROUTE 97
+        self.add_bus(route=ROUTE_97, start_index=0, color="#0896D7", speed=2.0)
 
         # Start the movement loop
         self.animate_buses()
@@ -44,7 +44,7 @@ class BusTrackerApp(tk.Tk):
 
     def add_bus(self, route, start_index, color, speed):
         """Helper to create a new bus and add it to our list."""
-        # Ensure we start within valid bounds
+        # Start within valid bounds
         if start_index >= len(route) - 1:
             start_index = 0
 

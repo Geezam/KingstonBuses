@@ -2,9 +2,6 @@
 WINDOW_WIDTH = 870
 WINDOW_HEIGHT = 610
 
-# --- ROUTES ---
-# Note: The "name" key is for your reference only; the program uses x and y.
-
 # Route 52: Kingston City to Temple Hall
 ROUTE_52 = [
     {"name": "Kingston City",    "x": 190, "y": 445},
