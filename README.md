@@ -14,7 +14,7 @@ The program currently simulates three specific routes:
 
 ## Features
 
-* **Schematic Visualization:** Uses a custom schematic map made with metromapmaker.com for a clean, easy-to-read interface.
+* **Schematic Visualization:** Uses a custom schematic map made with [metromapmaker.com](https://metromapmaker.com/map/_O6RQoy4) for a clean, easy-to-read interface.
 * **Smooth Animation:** Implements linear interpolation with distance calculations to ensure buses move at a consistent speed across different route segment lengths.
 * **Multiple Routes:** Supports simultaneous tracking of multiple buses on distinct paths with different speeds and colors.
 * **Modular Codebase:** Logic, configuration, and execution are split into separate files for easy maintenance.
